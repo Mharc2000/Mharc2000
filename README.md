@@ -1,6 +1,6 @@
 <div style="background-color: white; padding: 20px;">
   <h1 align="center">Hi 👋, I'm Mharc2000</h1>
-  <h3 align="center">A passionate Backend developer from Philippines</h3>
+  <h3 align="center">A passionate developer from Philippines</h3>
 
   <a href="https://github.com/Mharc2000/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=Mharc2000" alt="Anurag's GitHub stats" style="background-color: white;"/>
