@@ -11,8 +11,6 @@
 
 ### 🚀 About Me
 - 👨‍💻 Currently working as a **Junior Developer**.
-- 🛠️ Developing **Kwaderno**, a personal finance monitoring app built with **React Native**, **Node.js (Express)**, and **MongoDB**.
-- 🚛 Building a **Vehicle Maintenance App** featuring a 3D model interface for tire tracking.
 - ⚡ Experienced in **ERPNext** development, including offline POS systems for pharmaceutical use.
 - 🏍️ Enthusiast of the **Yamaha Aerox 155** and a fan of **TeamSESH**.
 - 🧠 **INTP** (The Logician) | Always looking for the most efficient way to solve a problem.
