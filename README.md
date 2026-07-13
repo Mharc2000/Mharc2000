@@ -6,15 +6,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Mharc2000&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="Mharc's GitHub stats" />
   </a>
 </div>
-
----
-
-### 🚀 About Me
-- 👨‍💻 Currently working as a **Junior Developer**.
-- ⚡ Experienced in **ERPNext** development, including offline POS systems for pharmaceutical use.
-- 🏍️ Enthusiast of the **Yamaha Aerox 155** and a fan of **TeamSESH**.
-- 🧠 **INTP** (The Logician) | Always looking for the most efficient way to solve a problem.
-
 ---
 
 ### 💻 Tech Stack
@@ -38,5 +29,5 @@
 
 ### 📫 Connect with me:
 <p align="left">
-  <a href="mailto:igmaglangit@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Mharc" /></a>
+  <a href="mailto:igmaglangit@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Mharc" />ivanmharcmaglangit@gmail.com</a>
 </p>
