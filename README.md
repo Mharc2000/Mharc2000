@@ -3,7 +3,7 @@
   <p><strong>Junior Developer | Davao City, PH 🇵🇭</strong></p>
 
   <a href="https://github.com/stats-organization/github-stats-extended">
-    <img src="https://github-readme-stats.vercel.app/api?username=Mharc2000&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="Mharc's GitHub stats" />
+    <img src="https://github-stats-extended.vercel.app/api?username=Mharc2000&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="Mharc's GitHub stats" />
   </a>
 </div>
 ---
@@ -22,7 +22,9 @@
 
 ### 📈 Top Languages
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mharc2000&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mharc2000&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  </a>
 </div>
 
 ---
