@@ -2,7 +2,7 @@
   <h1>Hi 👋, I'm Mharc</h1>
   <p><strong>Junior Developer | Davao City, PH 🇵🇭</strong></p>
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/stats-organization/github-stats-extended">
     <img src="https://github-readme-stats.vercel.app/api?username=Mharc2000&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="Mharc's GitHub stats" />
   </a>
 </div>
